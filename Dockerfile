@@ -1,4 +1,4 @@
-FROM nvidia/cuda:8.0-cudnn5-devel-centos6
+FROM nvidia/cuda:8.0-cudnn5-devel-centos7
 MAINTAINER Nimbix, Inc. <support@nimbix.net>
 
 # base OS
